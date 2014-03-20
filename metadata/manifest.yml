@@ -16,7 +16,7 @@ Categories:
 - python
 - web_framework
 Website: http://www.python.org
-Source-Url: https://github.com/fernandohc/openshift-advanced-python-cartridge.gi
+Source-Url: https://github.com/fernandohc/openshift-advanced-python-cartridge.git
 Help-Topics:
   Developer Center: https://www.openshift.com/developers
 Provides:
